@@ -1,3 +1,5 @@
+## Make your ECMAScript development experience a breeze
+
 Tired of rewriting the same boring code all over again? Aracna abstracts all the essentials for you without bloating your codebase.
 
 ## Seamless modular ecosystem
@@ -5,6 +7,7 @@ Tired of rewriting the same boring code all over again? Aracna abstracts all the
 Aracna is split into multiple libraries with a clear context, these libraries are fully modular and no unused code will ever spill into your production bundle.
 
 - [@aracna/core](https://github.com/queelag/core)
+- [@aracna/fcm](https://github.com/queelag/fcm)
 - [@aracna/web](https://github.com/queelag/web)
 - [@aracna/web-components](https://github.com/queelag/web-components)
 - [@aracna/react](https://github.com/queelag/react)
@@ -14,7 +17,6 @@ Aracna is split into multiple libraries with a clear context, these libraries ar
 - [@aracna/icons-feather](https://github.com/queelag/icons-feather)
 - [@aracna/icons-feather-web](https://github.com/queelag/icons-feather-web)
 - [@aracna/icons-feather-react](https://github.com/queelag/icons-feather-react)
-- [@aracna/fcm](https://github.com/queelag/fcm)
 
 ## Just works everywhere
 
