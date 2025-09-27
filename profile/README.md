@@ -9,8 +9,6 @@ Aracna is split into multiple libraries with a clear context, these libraries ar
 - [@aracna/core](https://github.com/queelag/core)
 - [@aracna/fcm](https://github.com/queelag/fcm)
 - [@aracna/icons-feather](https://github.com/queelag/icons-feather)
-- [@aracna/icons-feather-react](https://github.com/queelag/icons-feather-react)
-- [@aracna/icons-feather-web](https://github.com/queelag/icons-feather-web)
 - [@aracna/react](https://github.com/queelag/react)
 - [@aracna/react-components](https://github.com/queelag/react-components)
 - [@aracna/state-manager](https://github.com/queelag/state-manager)
