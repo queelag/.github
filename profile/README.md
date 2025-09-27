@@ -14,6 +14,8 @@ Aracna is split into multiple libraries with a clear context, these libraries ar
 - [@aracna/react-components](https://github.com/queelag/react-components)
 - [@aracna/state-manager](https://github.com/queelag/state-manager)
 - [@aracna/state-manager-react](https://github.com/queelag/state-manager-react)
+- [@aracna/telegram-bot](https://github.com/queelag/telegram-bot)
+- [@aracna/telegram-bot-types](https://github.com/queelag/telegram-bot-types)
 - [@aracna/web](https://github.com/queelag/web)
 - [@aracna/web-components](https://github.com/queelag/web-components)
 
@@ -26,4 +28,4 @@ You can use Aracna libraries in any environment, they are designed and bundled i
 - [x] Hybrid
 - [x] SSR
 
-[^1]: This applies to all except **@aracna/fcm** which works only on **Node.js**.
+[^1]: This applies to all except **@aracna/fcm**, **@aracna/telegram-bot** and **@aracna/telegram-bot-types** which work only on **Node.js**.
